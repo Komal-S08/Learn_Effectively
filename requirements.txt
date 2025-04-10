@@ -1,0 +1,11 @@
+streamlit
+streamlit_chat
+fpdf
+spacy
+pandas
+matplotlib
+numpy
+scikit-learn
+speechrecognition
+resend
+google-generativeai
